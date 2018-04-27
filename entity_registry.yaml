@@ -1,0 +1,48 @@
+media_player.stuatv:
+  name:
+  platform: cast
+  unique_id: f2f3f36d-fbf4-fe80-462f-77e9fd72a821
+media_player.emilie_tv:
+  name:
+  platform: cast
+  unique_id: c2afdb55-366a-3a66-d603-0ac366a69fe1
+media_player.chromecast1308:
+  name:
+  platform: cast
+  unique_id: a6bd8fee-46ae-5250-7389-a8ee57bd3951
+sensor.alarm_type:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528065
+sensor.alarm_level:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528081
+binary_sensor.sensor:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076463104
+sensor.aeotec_zw100_multisensor_6_temperature:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479506
+sensor.aeotec_zw100_multisensor_6_luminance:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479538
+sensor.aeotec_zw100_multisensor_6_relative_humidity:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479570
+sensor.aeotec_zw100_multisensor_6_ultraviolet:
+  name:
+  platform: zwave
+  unique_id: 2-72057594076479922
+sensor.aeotec_zw100_multisensor_6_sourcenodeid:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528097
+sensor.aeotec_zw100_multisensor_6_burglar:
+  name:
+  platform: zwave
+  unique_id: 2-72057594077528225

@@ -87,6 +87,3 @@ media_player:
     sources:
       bd-dvd: 'piTV'
       cbl-sat: 'Dreambox'
-  - platform: enigma2
-    host: 192.168.1.5
-    name: Dreambox-Stua

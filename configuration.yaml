@@ -87,3 +87,8 @@ media_player:
     sources:
       bd-dvd: 'piTV'
       cbl-sat: 'Dreambox'
+
+vacuum:
+  - platform: xiaomi_miio
+    host: 192.168.1.88
+    token: !secret vacuum_token
